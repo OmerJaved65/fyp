@@ -10,7 +10,7 @@ class Login extends Component {
                 {/* <TextView/> */}
                 <TextView />
                 <Button
-                    title="Signup"
+                    title="homeeee"
                     onPress={() => this.props.navigation.navigate('Signup')}
                 >
 
